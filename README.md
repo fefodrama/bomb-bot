@@ -7,4 +7,4 @@ Como usar:
 - Editar o diretório da pasta no "iniciar.bat" e depois executar como admin. [Se não funcionar, apaga o "3" de python3 e deixa só "python"]
 
 
-** FUNCIONANDO COM O JOGO TRADUZIDO PARA PORTUGUÊS **
+** FUNCIONA COM O JOGO TRADUZIDO PARA PORTUGUÊS **
