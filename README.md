@@ -1,10 +1,5 @@
 ** FUNCIONA COM O JOGO TRADUZIDO PARA PORTUGUÊS **
 
-Download:
-
-https://github.com/fefodrama/bomb-bot/releases/tag/bombcrypto-bot
-
-
 Como usar:
 
 - Fazer download como zip e extrair para alguma pasta da sua preferência.
