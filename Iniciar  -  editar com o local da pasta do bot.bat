@@ -1,3 +1,3 @@
 cd "/d D:\Games\bot"
-python3 fefo.py
+python fefo.py
 pause
