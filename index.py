@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-    
 from cv2 import cv2
 
-from captcha.solveCaptcha import solveCaptcha
-
 from os import listdir
 from src.logger import logger, loggerMapClicked
 from random import randint
