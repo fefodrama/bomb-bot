@@ -1,2 +1,0 @@
-telegram-send --configure
-pause
