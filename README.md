@@ -1,6 +1,6 @@
 ** FUNCIONA COM O JOGO TRADUZIDO PARA PORTUGUÊS **
 
-Download e Como usar:
+Download e Como usar (NÃO CLONAR):
 
    https://github.com/fefodrama/bomb-bot/releases/tag/bombcrypto-bot
 
